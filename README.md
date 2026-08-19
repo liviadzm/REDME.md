@@ -1,4 +1,4 @@
-##👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Oi! Eu sou a Lívia, estudante de Ciência da Computação e apaixonada por tecnologia 💜
 Atualmente estou construindo minha base em programação e buscando evoluir cada vez mais na área.
