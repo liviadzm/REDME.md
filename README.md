@@ -30,3 +30,10 @@ Trabalho em equipe
 📍 São Paulo - SP
 💡 Gosto de aprender coisas novas
 🎮 Curto tecnologia e jogos
+
+## kajsksk
+
+kanakakanjshajnsksnks:
+
+•sksnks
+•kansjsk
