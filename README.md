@@ -6,35 +6,46 @@ Atualmente estou construindo minha base em programação e buscando evoluir cada
 ## 🚀 O que estou aprendendo
 
 Atualmente estou estudando e praticando:
+
 -💻 Linguagem de programação
+
 -🧠 Resolução de problemas
+
 -🔤 Linguagem C
+
 -🌐 HTML e CSS (básico)
+
 -🛠️ Git e GitHub
+
 -📊 Noções de banco de dados
+
 Também estou focando em entender melhor como os programas funcionam por trás, não só decorar código.
 
 ## 🎯 Objetivos
 -Evoluir como desenvolvedora
+
 -Conseguir uma oportunidade na área de tecnologia
+
 -Aprender novas linguagens (como JavaScript e Python)
+
 -Criar projetos próprios
 
 ## 💼 Experiência
+
 Atualmente trabalho como Jovem Aprendiz na área administrativa, onde estou desenvolvendo:
+
 Organização
+
 Responsabilidade
+
 Trabalho em equipe
-📚 Sobre mim
+
+## 📚 Sobre mim
+
 🎓 Estudante de Ciência da Computação
+
 📍 São Paulo - SP
+
 💡 Gosto de aprender coisas novas
+
 🎮 Curto tecnologia e jogos
-
-## kajsksk
-
-kanakakanjshajnsksnks:
-
-•sksnks
-
-•kansjsk
