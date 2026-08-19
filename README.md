@@ -5,8 +5,8 @@ Atualmente estou construindo minha base em programação e buscando evoluir cada
 
 ## 🚀 O que estou aprendendo
 
-Atualmente estou estudando e praticando
--💻 Lógica de programação
+Atualmente estou estudando e praticando:
+  -💻 Lógica de programação
 -🧠 Resolução de problemas
 -🔤 Linguagem C
 -🌐 HTML e CSS (básico)
