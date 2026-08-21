@@ -1,6 +1,6 @@
-## 👩‍💻 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
-Oi! Eu sou a Lívia, estudante de Ciência da Computação e apaixonada por tecnologia 💜
+Oi! Eu sou a Lívia, estudante de Ciência da Computação 💜
 Atualmente estou construindo minha base em programação e buscando evoluir cada vez mais na área.
 
 ## 🚀 O que estou aprendendo
@@ -19,9 +19,8 @@ Atualmente estou estudando e praticando:
 
 -📊 Noções de banco de dados
 
-Também estou focando em entender melhor como os programas funcionam por trás, não só decorar código.
-
 ## 🎯 Objetivos
+
 -Evoluir como desenvolvedora
 
 -Conseguir uma oportunidade na área de tecnologia
@@ -49,3 +48,7 @@ Trabalho em equipe
 💡 Gosto de aprender coisas novas
 
 🎮 Curto tecnologia e jogos
+
+## 🤷🏻‍♀️ Onde me achar?
+
+LinkedIn: 
