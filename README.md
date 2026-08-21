@@ -51,4 +51,6 @@ Trabalho em equipe
 
 ## 🤷🏻‍♀️ Onde me achar?
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/liviadaroz
+
+Telefone: 11939406246
